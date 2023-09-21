@@ -17,7 +17,7 @@ install.packages("Biostrings")
 
 This script is designed to split a FASTA file containing DNA sequences into smaller chunks. It takes two command-line arguments: the path to the input FASTA file and the desired chunk size. The DNA sequences in the input file are divided into chunks, and each chunk is saved as a separate FASTA file in an output directory.
 
-# Usage
+### Usage
 ```
 Rscript splitFASTAintochunks.R input.fasta chunk_size
 ```
@@ -28,7 +28,7 @@ chunk_size: The desired size for each sequence chunk.
 
 This script is designed to split a FASTA file containing DNA sequences into individual sequences. It takes one command-line argument: the path to the input FASTA file. The DNA sequences in the input file are split into individual sequences, and each sequence is saved as a separate FASTA file in an output directory.
 
-# Usage 
+### Usage 
 ```
 Rscript splitFASTAintoseq.R input.fasta
 ```
