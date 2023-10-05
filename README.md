@@ -39,3 +39,5 @@ Please note that you may need to customize the output directory in both scripts 
 ## Author
 Amanda Araújo Serrão de Andrade
 aandradebio@gmail.com
+
+Feel free to contact me, open an issue, or a pull request.
